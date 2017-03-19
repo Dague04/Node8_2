@@ -1,0 +1,11 @@
+{
+  "name": "convert-caps",
+  "version": "1.0.0",
+  "description": "Convert to lower and upper case",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dague F",
+  "license": "ISC"
+}
